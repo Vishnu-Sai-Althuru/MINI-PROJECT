@@ -1,4 +1,6 @@
-Project Title:- Digitalization of question papers 
+Project Title:- 
+
+           Digitalization of question papers 
 
    Objective: 
    
@@ -7,16 +9,24 @@ Project Title:- Digitalization of question papers
 Technologies used:
 
  HTML  
+
  PHP 
+
  MYSQL 
+
  JAVASCRIPT 
- BOOTSTRAP 
+
+ BOOTSTRAP
+
  CSS
+
 
 Software Requirements:
 
  PHP 5.0 
+
  WAMP OR XAMPP 
+
  Microsoft Windows or Linux
 
 Hardware Requirements:
