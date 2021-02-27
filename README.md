@@ -22,8 +22,11 @@ Software Requirements:
 Hardware Requirements:
 
  Intel Pentium iv processor or an updated version 
- 512 Mb RAM or more 
+
+ 512 Mb RAM or more
+
  20 GB HDD(hard disk drive) or more 
+
  Network connectivity
 
 Abstract: 
