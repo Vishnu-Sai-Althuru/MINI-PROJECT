@@ -8,31 +8,31 @@ Project Title:-
 
 Technologies used:
 
- HTML  
- PHP 
- MYSQL 
- JAVASCRIPT 
- BOOTSTRAP
- CSS
+• HTML  
+• PHP 
+• MYSQL 
+• JAVASCRIPT 
+• BOOTSTRAP
+• CSS
 
 
 Software Requirements:
 
- PHP 5.0 
+• PHP 5.0 
 
- WAMP OR XAMPP 
+• WAMP OR XAMPP 
 
- Microsoft Windows or Linux
+• Microsoft Windows or Linux
 
 Hardware Requirements:
 
- Intel Pentium iv processor or an updated version 
+• Intel Pentium iv processor or an updated version 
 
- 512 Mb RAM or more
+• 512 Mb RAM or more
 
- 20 GB HDD(hard disk drive) or more 
+• 20 GB HDD(hard disk drive) or more 
 
- Network connectivity
+• Network connectivity
 
 Abstract:
 
