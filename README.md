@@ -1,6 +1,6 @@
-Project Title:- 
 
-           Digitalization of question papers 
+
+                                                Digitalization of question papers 
 
    Objective: 
    
