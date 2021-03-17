@@ -8,11 +8,16 @@ Project Title:-
 
 Technologies used:
 
-• HTML  
-• PHP 
-• MYSQL 
-• JAVASCRIPT 
+• HTML
+
+• PHP
+
+• MYSQL
+
+• JAVASCRIPT
+
 • BOOTSTRAP
+
 • CSS
 
 
@@ -23,6 +28,7 @@ Software Requirements:
 • WAMP OR XAMPP 
 
 • Microsoft Windows or Linux
+
 
 Hardware Requirements:
 
