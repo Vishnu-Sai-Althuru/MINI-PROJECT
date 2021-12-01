@@ -16,6 +16,8 @@ Technologies used:
 
 • JAVASCRIPT
 
+•Java
+
 • BOOTSTRAP
 
 • CSS
